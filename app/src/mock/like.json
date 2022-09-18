@@ -1,0 +1,134 @@
+{
+    "likeList1": {
+        "image1": {
+            "path": "/images/like01.jpg",
+            "moreImage": {
+                "path1": "/images/like01_1.jpg",
+                "path2": "/images/like01_2.jpg",
+                "path3": "/images/like01_3.jpg"
+            },
+            "produce": "立赐原神cos服刻晴套装少女cospaly动漫服装刻晴c服可爱官方旗舰 暗纹款 ",
+            "price": " 509",
+            "isStar": 0
+        },
+        "image2": {
+            "path": "/images/like02.jpg",
+            "moreImage": {
+                "path1": "/images/like02_1.jpg",
+                "path2": "/images/like02_2.jpg",
+                "path3": "/images/like02_3.jpg"
+            },
+            "produce": "啄木鸟更衣人偶坠入爱河 喜多川海梦cos 黑江雫女仆装 cosplay服装全套 喜多川女仆全套+假发 ",
+            "price": " 349",
+            "isStar": 0
+        },
+        "image3": {
+            "path": "/images/like03.jpg",
+            "moreImage": {
+                "path1": "/images/like03_1.jpg",
+                "path2": "/images/like03_2.jpg",
+                "path3": "/images/like03_3.jpg"
+            },
+            "produce": "缘之空穹妹手办动漫周边和风穹语春日野穹",
+            "price": " 509",
+            "isStar": 0
+        },
+        "image4": {
+            "path": "/images/hot08.jpg",
+            "moreImage": {
+                "path1": "/images/hot08_1.jpg",
+                "path2": "/images/hot08_2.jpg",
+                "path3": "/images/hot08_3.jpg"
+            },
+            "produce": "冰菓漫画.1-10（套装共10册）日本推理大师米泽穗信高人气出道作同名漫画",
+            "price": " 175",
+            "isStar": 0
+        },
+        "image5": {
+            "path": "/images/like03.jpg",
+            "moreImage": {
+                "path1": "/images/like03_1.jpg",
+                "path2": "/images/like03_2.jpg",
+                "path3": "/images/like03_3.jpg"
+            },
+            "produce": "缘之空穹妹手办动漫周边和风穹语春日野穹",
+            "price": " 509",
+            "isStar": 0
+        },
+        "image6": {
+            "path": "/images/like03.jpg",
+            "moreImage": {
+                "path1": "/images/like03_1.jpg",
+                "path2": "/images/like03_2.jpg",
+                "path3": "/images/like03_3.jpg"
+            },
+            "produce": "缘之空穹妹手办动漫周边和风穹语春日野穹",
+            "price": " 509",
+            "isStar": 0
+        }
+    },
+    "likeList2": {
+        "image7": {
+            "path": "/images/like09.jpg",
+            "produce": "【哔哩哔哩】GSC POP UP PARADE 哔哩哔哩 22&33娘 手办",
+            "price": "256"
+        },
+        "image8": {
+            "path": "/images/like12.jpg",
+            "produce": "【官网价直降1100】Apple iPhone 8 Plus 256GB 绿色全网通4G手机",
+            "price": "306"
+        },
+        "image9": {
+            "path": "/images/like13.jpg",
+            "produce": "【官网价直降1100】Apple iPhone 9 Plus 256GB 青色全网通4G手机",
+            "price": "668"
+        },
+        "image10": {
+            "path": "/images/like14.jpg",
+            "produce": "【官网价直降1100】Apple iPhone 10 Plus 256GB 蓝色全网通4G手机",
+            "price": "546"
+        },
+        "image11": {
+            "path": "/images/like15.jpg",
+            "produce": "【米哈游/崩坏学园2】希儿·摇曳猫尾 1/7手办",
+            "price": "325"
+        },
+        "image12": {
+            "path": "/images/like16.jpg",
+            "produce": "【官网价直降1100】Apple iPhone 12 Plus 256GB 银色全网通4G手机",
+            "price": "119"
+        }
+    },
+    "likeList3": {
+        "image13": {
+            "path": "/images/like15.jpg",
+            "produce": "【火影忍者】手办鸣人卡卡西宇智波佐助GK模型摆件动漫二次元周边雕像",
+            "price": "158"
+        },
+        "image14": {
+            "path": "/images/like20.jpg",
+            "produce": "【官网价直降1100】Apple iPhone 8 Plus 256GB 绿色全网通4G手机",
+            "price": "306"
+        },
+        "image15": {
+            "path": "/images/like21.jpg",
+            "produce": "【官网价直降1100】Apple iPhone 9 Plus 256GB 青色全网通4G手机",
+            "price": "668"
+        },
+        "image16": {
+            "path": "/images/like22.jpg",
+            "produce": "【官网价直降1100】Apple iPhone 10 Plus 256GB 蓝色全网通4G手机",
+            "price": "546"
+        },
+        "image17": {
+            "path": "/images/like23.jpg",
+            "produce": "【官网价直降1100】Apple iPhone 11 Plus 256GB 紫色全网通4G手机",
+            "price": "325"
+        },
+        "image18": {
+            "path": "/images/like24.jpg",
+            "produce": "【官网价直降1100】Apple iPhone 12 Plus 256GB 银色全网通4G手机",
+            "price": "119"
+        }
+    }
+}

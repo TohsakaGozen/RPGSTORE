@@ -1,0 +1,376 @@
+{
+    "page1": {
+        "currentPage": 1,
+        "pageList": {
+            "image1": {
+                "path": "/images/hot01.jpg",
+                "moreImage": {
+                    "path1": "/images/hot01_1.jpg",
+                    "path2": "/images/hot01_2.jpg",
+                    "path3": "/images/hot01_3.jpg"
+                },
+                "produce": "【现货】Broccoli 偶像大师 闪耀色彩 樋口円香 手办 带特典！",
+                "price": "1450",
+                "isStar": 0
+            },
+            "image2": {
+                "path": "/images/hot02.jpg",
+                "moreImage": {
+                    "path1": "/images/hot02_1.jpg",
+                    "path2": "/images/hot02_2.jpg",
+                    "path3": "/images/hot02_3.jpg"
+                },
+                "produce": "中野三玖手办五等分的花嫁课桌少女特典版",
+                "price": "104",
+                "isStar": 0
+            },
+            "image3": {
+                "path": "/images/hot03.webp",
+                "moreImage": {
+                    "path1": "/images/hot03_1.webp",
+                    "path2": "/images/hot03_2.webp"
+                },
+                "produce": "美式复古vintage超火短袖t恤女宽松韩版潮ins原宿风学生半袖上衣",
+                "price": "26",
+                "isStar": 0
+            },
+            "image4": {
+                "path": "/images/hot04.jpg",
+                "moreImage": {
+                    "path1": "/images/hot04_1.jpg",
+                    "path2": "/images/hot04_2.jpg",
+                    "path3": "/images/hot04_3.png"
+                },
+                "produce": "【中商原版】宝石之国1-11市川春子手塚治虫文化赏日本奇幻战斗成长漫画虫与歌作者",
+                "price": "860",
+                "isStar": 0
+            },
+            "image5": {
+                "path": "/images/hot05.jpg",
+                "moreImage": {
+                    "path1": "/images/hot05_1.jpg",
+                    "path2": "/images/hot05_2.jpg",
+                    "path3": "/images/hot05_3.jpg"
+                },
+                "produce": "【全套16册】Overlord不死者之王小说1-7卷+设定资料集2册简体中文版漫画书籍正版",
+                "price": " 449",
+                "isStar": 0
+            },
+            "image6": {
+                "path": "/images/hot06.jpg",
+                "moreImage": {
+                    "path1": "/images/hot06_1.jpg",
+                    "path2": "/images/hot06_2.jpg",
+                    "path3": "/images/hot06_3.jpg"
+                },
+                "produce": "不存在的战区小说全套1-7册简中86不存在的地域天闻角川轻小说文学动漫画书日本",
+                "price": " 194",
+                "isStar": 0
+            },
+            "image7": {
+                "path": "/images/hot07.jpg",
+                "moreImage": {
+                    "path1": "/images/hot07_1.jpg",
+                    "path2": "/images/hot07_2.jpg",
+                    "path3": "/images/hot07_3.jpg"
+                },
+                "produce": "【天闻角川特约店】 文豪野犬漫画全套1-20册 文豪野犬小说改编日本漫画书籍推理小说",
+                "price": " 370",
+                "isStar": 0
+            },
+            "image8": {
+                "path": "/images/hot08.jpg",
+                "moreImage": {
+                    "path1": "/images/hot08_1.jpg",
+                    "path2": "/images/hot08_2.jpg",
+                    "path3": "/images/hot08_3.jpg"
+                },
+                "produce": "冰菓漫画.1-10（套装共10册）日本推理大师米泽穗信高人气出道作同名漫画",
+                "price": " 175",
+                "isStar": 0
+            }
+        }
+    },
+    "page2": {
+        "currentPage": 2,
+        "pageList": {
+            "image1": {
+                "path": "/images/hot08.jpg",
+                "moreImage": {
+                    "path1": "/images/hot08_1.jpg",
+                    "path2": "/images/hot08_2.jpg",
+                    "path3": "/images/hot08_3.jpg"
+                },
+                "produce": "冰菓漫画.1-10（套装共10册）日本推理大师米泽穗信高人气出道作同名漫画",
+                "price": " 175",
+                "isStar": 0
+            },
+            "image2": {
+                "path": "/images/hot06.jpg",
+                "moreImage": {
+                    "path1": "/images/hot06_1.jpg",
+                    "path2": "/images/hot06_2.jpg",
+                    "path3": "/images/hot06_3.jpg"
+                },
+                "produce": "不存在的战区小说全套1-7册简中86不存在的地域天闻角川轻小说文学动漫画书日本",
+                "price": " 194",
+                "isStar": 0
+            },
+            "image3": {
+                "path": "/images/hot05.jpg",
+                "moreImage": {
+                    "path1": "/images/hot05_1.jpg",
+                    "path2": "/images/hot05_2.jpg",
+                    "path3": "/images/hot05_3.jpg"
+                },
+                "produce": "【全套16册】Overlord不死者之王小说1-7卷+设定资料集2册简体中文版漫画书籍正版",
+                "price": " 449",
+                "isStar": 0
+            },
+            "image4": {
+                "path": "/images/hot07.jpg",
+                "moreImage": {
+                    "path1": "/images/hot07_1.jpg",
+                    "path2": "/images/hot07_2.jpg",
+                    "path3": "/images/hot07_3.jpg"
+                },
+                "produce": "【天闻角川特约店】 文豪野犬漫画全套1-20册 文豪野犬小说改编日本漫画书籍推理小说",
+                "price": " 370",
+                "isStar": 0
+            },
+            "image5": {
+                "path": "/images/hot01.jpg",
+                "produce": "【官网价直降1100】Apple iPhone 9 Plus 256GB 青色全网通4G手机",
+                "price": "668",
+                "isStar": 0
+            },
+            "image6": {
+                "path": "/images/hot01.jpg",
+                "produce": "【官网价直降1100】Apple iPhone 10 Plus 256GB 蓝色全网通4G手机",
+                "price": "546",
+                "isStar": 0
+            },
+            "image7": {
+                "path": "/images/hot07.jpg",
+                "moreImage": {
+                    "path1": "/images/hot07_1.jpg",
+                    "path2": "/images/hot07_2.jpg",
+                    "path3": "/images/hot07_3.jpg"
+                },
+                "produce": "【天闻角川特约店】 文豪野犬漫画全套1-20册 文豪野犬小说改编日本漫画书籍推理小说",
+                "price": " 370",
+                "isStar": 0
+            },
+            "image8": {
+                "path": "/images/hot07.jpg",
+                "moreImage": {
+                    "path1": "/images/hot07_1.jpg",
+                    "path2": "/images/hot07_2.jpg",
+                    "path3": "/images/hot07_3.jpg"
+                },
+                "produce": "【天闻角川特约店】 文豪野犬漫画全套1-20册 文豪野犬小说改编日本漫画书籍推理小说",
+                "price": " 370",
+                "isStar": 0
+            }
+        }
+    },
+    "page3": {
+        "currentPage": 3,
+        "pageList": {
+            "image1": {
+                "path": "/images/hot08.jpg",
+                "moreImage": {
+                    "path1": "/images/hot08_1.jpg",
+                    "path2": "/images/hot08_2.jpg",
+                    "path3": "/images/hot08_3.jpg"
+                },
+                "produce": "冰菓漫画.1-10（套装共10册）日本推理大师米泽穗信高人气出道作同名漫画",
+                "price": " 175",
+                "isStar": 0
+            },
+            "image2": {
+                "path": "/images/hot08.jpg",
+                "moreImage": {
+                    "path1": "/images/hot08_1.jpg",
+                    "path2": "/images/hot08_2.jpg",
+                    "path3": "/images/hot08_3.jpg"
+                },
+                "produce": "冰菓漫画.1-10（套装共10册）日本推理大师米泽穗信高人气出道作同名漫画",
+                "price": " 175",
+                "isStar": 0
+            },
+            "image3": {
+                "path": "/images/hot08.jpg",
+                "moreImage": {
+                    "path1": "/images/hot08_1.jpg",
+                    "path2": "/images/hot08_2.jpg",
+                    "path3": "/images/hot08_3.jpg"
+                },
+                "produce": "冰菓漫画.1-10（套装共10册）日本推理大师米泽穗信高人气出道作同名漫画",
+                "price": " 175",
+                "isStar": 0
+            },
+            "image4": {
+                "path": "/images/hot08.jpg",
+                "moreImage": {
+                    "path1": "/images/hot08_1.jpg",
+                    "path2": "/images/hot08_2.jpg",
+                    "path3": "/images/hot08_3.jpg"
+                },
+                "produce": "冰菓漫画.1-10（套装共10册）日本推理大师米泽穗信高人气出道作同名漫画",
+                "price": " 175",
+                "isStar": 0
+            },
+            "image5": {
+                "path": "/images/hot08.jpg",
+                "moreImage": {
+                    "path1": "/images/hot08_1.jpg",
+                    "path2": "/images/hot08_2.jpg",
+                    "path3": "/images/hot08_3.jpg"
+                },
+                "produce": "冰菓漫画.1-10（套装共10册）日本推理大师米泽穗信高人气出道作同名漫画",
+                "price": " 175",
+                "isStar": 0
+            },
+            "image6": {
+                "path": "/images/hot08.jpg",
+                "moreImage": {
+                    "path1": "/images/hot08_1.jpg",
+                    "path2": "/images/hot08_2.jpg",
+                    "path3": "/images/hot08_3.jpg"
+                },
+                "produce": "冰菓漫画.1-10（套装共10册）日本推理大师米泽穗信高人气出道作同名漫画",
+                "price": " 175",
+                "isStar": 0
+            },
+            "image7": {
+                "path": "/images/hot08.jpg",
+                "moreImage": {
+                    "path1": "/images/hot08_1.jpg",
+                    "path2": "/images/hot08_2.jpg",
+                    "path3": "/images/hot08_3.jpg"
+                },
+                "produce": "冰菓漫画.1-10（套装共10册）日本推理大师米泽穗信高人气出道作同名漫画",
+                "price": " 175",
+                "isStar": 0
+            },
+            "image8": {
+                "path": "/images/hot08.jpg",
+                "moreImage": {
+                    "path1": "/images/hot08_1.jpg",
+                    "path2": "/images/hot08_2.jpg",
+                    "path3": "/images/hot08_3.jpg"
+                },
+                "produce": "冰菓漫画.1-10（套装共10册）日本推理大师米泽穗信高人气出道作同名漫画",
+                "price": " 175",
+                "isStar": 0
+            }
+        }
+    },
+    "page4": {
+        "currentPage": 4,
+        "pageList": {
+            "image1": {
+                "path": "/images/hot04.png",
+                "produce": "【哔哩哔哩】GSC POP UP PARADE 哔哩哔哩 22&33娘 手办",
+                "price": "256",
+                "isStar": 0
+            },
+            "image2": {
+                "path": "/images/hot04.png",
+                "produce": "【米哈游/崩坏学园2】希儿·摇曳猫尾 1/7手办",
+                "price": "300",
+                "isStar": 0
+            },
+            "image3": {
+                "path": "/images/hot04.png",
+                "produce": "【火影忍者】手办鸣人卡卡西宇智波佐助GK模型摆件动漫二次元周边雕像",
+                "price": "158",
+                "isStar": 0
+            },
+            "image4": {
+                "path": "/images/hot04.png",
+                "produce": "【官网价直降1100】Apple iPhone 8 Plus 256GB 绿色全网通4G手机",
+                "price": "306",
+                "isStar": 0
+            },
+            "image5": {
+                "path": "/images/hot04.png",
+                "produce": "【官网价直降1100】Apple iPhone 9 Plus 256GB 青色全网通4G手机",
+                "price": "668",
+                "isStar": 0
+            },
+            "image6": {
+                "path": "/images/hot04.png",
+                "produce": "【官网价直降1100】Apple iPhone 10 Plus 256GB 蓝色全网通4G手机",
+                "price": "546",
+                "isStar": 0
+            },
+            "image7": {
+                "path": "/images/hot04.png",
+                "produce": "【官网价直降1100】Apple iPhone 11 Plus 256GB 紫色全网通4G手机",
+                "price": "325",
+                "isStar": 0
+            },
+            "image8": {
+                "path": "/images/hot04.png",
+                "produce": "【官网价直降1100】Apple iPhone 12 Plus 256GB 银色全网通4G手机",
+                "price": "119",
+                "isStar": 0
+            }
+        }
+    },
+    "page5": {
+        "currentPage": 5,
+        "pageList": {
+            "image1": {
+                "path": "/images/hot05.jpg",
+                "produce": "【哔哩哔哩】GSC POP UP PARADE 哔哩哔哩 22&33娘 手办",
+                "price": "256",
+                "isStar": 0
+            },
+            "image2": {
+                "path": "/images/hot05.jpg",
+                "produce": "【米哈游/崩坏学园2】希儿·摇曳猫尾 1/7手办",
+                "price": "300",
+                "isStar": 0
+            },
+            "image3": {
+                "path": "/images/hot05.jpg",
+                "produce": "【火影忍者】手办鸣人卡卡西宇智波佐助GK模型摆件动漫二次元周边雕像",
+                "price": "158",
+                "isStar": 0
+            },
+            "image4": {
+                "path": "/images/hot05.jpg",
+                "produce": "【官网价直降1100】Apple iPhone 8 Plus 256GB 绿色全网通4G手机",
+                "price": "306",
+                "isStar": 0
+            },
+            "image5": {
+                "path": "/images/hot05.jpg",
+                "produce": "【官网价直降1100】Apple iPhone 9 Plus 256GB 青色全网通4G手机",
+                "price": "668",
+                "isStar": 0
+            },
+            "image6": {
+                "path": "/images/hot05.jpg",
+                "produce": "【官网价直降1100】Apple iPhone 10 Plus 256GB 蓝色全网通4G手机",
+                "price": "546",
+                "isStar": 0
+            },
+            "image7": {
+                "path": "/images/hot05.jpg",
+                "produce": "【官网价直降1100】Apple iPhone 11 Plus 256GB 紫色全网通4G手机",
+                "price": "325",
+                "isStar": 0
+            },
+            "image8": {
+                "path": "/images/hot05.jpg",
+                "produce": "【官网价直降1100】Apple iPhone 12 Plus 256GB 银色全网通4G手机",
+                "price": "119",
+                "isStar": 0
+            }
+        }
+    }
+}
